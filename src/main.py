@@ -4,7 +4,7 @@ import csv
 import argparse
 
 
-VALID_CLASSES = {"жёсткое", "твёрдое", "мягкое"}
+VALID_CLASSES = {"жёсткое", "мягкое"}
 
 
 @dataclass
